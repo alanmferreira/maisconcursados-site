@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/alanmo43/maisconcursados.com.br/
+    - /bin/cp -R site/. $DEPLOYPATH
