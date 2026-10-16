@@ -66,7 +66,7 @@ def header(active, root):
 
 def footer(root):
     return ('<footer><div class="wrap">'
-            '<div><h4>Mais Concursados</h4><p>Editais organizados e estudo com método para quem quer a aprovação. Por Alan Moraes, bancário, professor e mentor para concursos.</p></div>'
+            '<div><h4>Mais Concursados</h4><p>Editais de concursos de todas as áreas, com destaque para os bancários, e estudo com método para quem quer a aprovação. Por Alan Moraes, bancário, professor e mentor para concursos.</p></div>'
             '<div><h4>Navegue</h4><ul><li><a href="%seditais.html">Editais</a></li><li><a href="%scursos.html">Cursos</a></li><li><a href="%sblog.html">Blog</a></li><li><a href="%smentorias.html">Mentorias</a></li></ul></div>'
             '<div><h4>Institucional</h4><ul><li><a href="%ssobre.html">Sobre o Alan</a></li><li><a href="%scontato.html">Contato</a></li><li><a href="%sprivacidade.html">Política de privacidade</a></li></ul></div>'
             '<p class="legal">© 2026 Mais Concursados · maisconcursados.com.br. As informações de editais vêm de portais de notícias e devem ser conferidas no edital oficial. O Mais Concursados não é banca organizadora nem órgão público.</p>'
@@ -74,7 +74,7 @@ def footer(root):
 
 def lead_form(origem, interesse_hidden=None, wpp=True, label_btn="Quero receber os alertas", fid="x"):
     hid = '<input type="hidden" name="interesse" value="%s">' % esc(interesse_hidden) if interesse_hidden else ""
-    interesse_field = "" if interesse_hidden else ('<label for="%s-int">Concurso de interesse<input id="%s-int" name="interesse" type="text" placeholder="Ex.: Banco Central, bancos, tribunais"></label>' % (fid, fid))
+    interesse_field = "" if interesse_hidden else ('<label for="%s-int">Concurso de interesse<input id="%s-int" name="interesse" type="text" placeholder="Ex.: Banco Central, tribunais, polícia, prefeituras"></label>' % (fid, fid))
     wpp_field = ('<label for="%s-wpp">WhatsApp (opcional)<input id="%s-wpp" name="whatsapp" type="tel" placeholder="(91) 90000-0000" autocomplete="tel"></label>' % (fid, fid)) if wpp else ""
     MC_TAGS = {"mentoria-bancada-bacen": "7215796,7215806", "mentoria-bb": "7215796,7215807"}  # Mentoria + etiqueta específica
     mc_attr = (' data-mc-tags="%s" data-no-redirect="1"' % MC_TAGS.get(origem, "7215796")) if interesse_hidden else ""
@@ -149,7 +149,7 @@ def home():
   <div>
    <p class="mono">Editais, notícias e estudo</p>
    <h1 style="margin-top:14px">Saiba qual concurso abre e como estudar para <em>passar</em>.</h1>
-   <p class="lead">Acompanhe editais abertos e previstos e estude com o método de um bancário aprovado e convocado em mais de 10 concursos.</p>
+   <p class="lead">Acompanhe editais abertos e previstos de concursos de todas as áreas, com destaque para os bancários, e estude com o método de um professor aprovado e convocado em mais de 10 concursos.</p>
    <div class="cta-row"><a class="btn" href="editais.html">Ver editais</a><a class="btn ghost" href="mentorias.html">Conhecer a mentoria</a></div>
   </div>
   <aside class="radar" aria-label="Radar de editais">
@@ -193,7 +193,7 @@ def home():
 """.replace("%AREAS%", areas_html).replace("%POSTS%", posts).replace("%FORM%", lead_form("home", fid="h"))
     ld = {"@context": "https://schema.org", "@type": "Organization", "name": NAME, "url": SITE + "/",
           "logo": SITE + "/assets/logo-light.png", "sameAs": [IG]}
-    return page("index.html", NAME, "Editais de concursos abertos e previstos, artigos de estudo e mentoria para concursos bancários, com Alan Moraes.",
+    return page("index.html", NAME, "Editais de concursos abertos e previstos, artigos de estudo e mentoria para concursos de todas as áreas, com destaque para os bancários, com Alan Moraes.",
                 body, "inicio", ld, needs_data=True)
 
 def editais():
@@ -222,7 +222,7 @@ def editais():
  %FORM%
 </section>
 """.replace("%FORM%", lead_form("editais", fid="e"))
-    return page("editais.html", "Editais de concursos abertos e previstos", "Lista de concursos abertos e previstos com banca, vagas, salário, prazos e fontes. Foco em concursos bancários, fiscais, tribunais e policiais.", body, "editais", needs_data=True)
+    return page("editais.html", "Editais de concursos abertos e previstos", "Lista de concursos abertos e previstos com banca, vagas, salário, prazos e fontes. Concursos de todas as áreas, com destaque para bancários, fiscais, tribunais, policiais e educação.", body, "editais", needs_data=True)
 
 def blog():
     cats = ["Todos"] + sorted({a["cat"] for a in ARTICLES})
@@ -230,12 +230,12 @@ def blog():
     posts = "".join(post_card(a, a.get("feature", False)) for a in ARTICLES)
     body = """
 <section class="page-head"><p class="mono">Blog</p><h1 style="margin-top:10px">Estude com estratégia</h1>
-<p>Método, rotina e conteúdo para concursos bancários, escritos por quem já passou por isso.</p></section>
+<p>Método, rotina e conteúdo para concursos de todas as áreas, com destaque para os bancários, escritos por quem já passou por isso.</p></section>
 <div class="chips" id="b-cats" role="group" aria-label="Categoria" style="margin-top:24px">%CHIPS%</div>
 <div class="posts" id="b-posts" style="margin-top:24px">%POSTS%</div>
 <p class="empty" id="b-empty" hidden>Ainda não há artigos nesta categoria.</p>
 """.replace("%CHIPS%", chips).replace("%POSTS%", posts)
-    return page("blog.html", "Blog de estudo para concursos", "Artigos sobre método de estudo, cronograma e conteúdo para concursos bancários, por Alan Moraes.", body, "blog")
+    return page("blog.html", "Blog de estudo para concursos", "Artigos sobre método de estudo, cronograma e conteúdo para concursos de todas as áreas, com destaque para os bancários, por Alan Moraes.", body, "blog")
 
 def article(a):
     others = [x for x in ARTICLES if x["slug"] != a["slug"]]
@@ -402,7 +402,7 @@ def cursos():
  %FORM%
 </section>
 """.replace("%CARDS%", cards).replace("%FORMBB%", lead_form("mentoria-bb", "Mentoria Você Bancário (BB)", True, "Entrar na lista de espera", fid="b")).replace("%FORM%", lead_form("cursos", fid="c"))
-    return page("cursos.html", "Cursos e mentorias para concursos", "Cursos e mentorias para concursos bancários e outras áreas: Conhecimentos Bancários, Informática, Inglês, Vendas e a Bancada BACEN.", body, "cursos", ld)
+    return page("cursos.html", "Cursos e mentorias para concursos", "Cursos e mentorias para concursos de todas as áreas, com destaque para os bancários: Conhecimentos Bancários, Informática, Inglês, Vendas e a Bancada BACEN.", body, "cursos", ld)
 
 
 def sobre():
@@ -423,7 +423,7 @@ def sobre():
   <h2>O que você encontra aqui</h2>
   <ul>
    <li>Um painel de editais abertos e previstos, com as fontes de cada informação.</li>
-   <li>Artigos sobre método, rotina e conteúdo para concursos bancários.</li>
+   <li>Artigos sobre método, rotina e conteúdo para concursos de todas as áreas, com destaque para os bancários.</li>
    <li>A mentoria Bancada, turmas fechadas para quem quer estudar com acompanhamento.</li>
   </ul>
   <p>Você também me encontra no Instagram, em <a href="%IG%" target="_blank" rel="noopener">@prof.alanmoraes</a>.</p>
