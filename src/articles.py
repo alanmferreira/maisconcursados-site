@@ -374,4 +374,38 @@ ARTICLES = [
 </ul>
 """
 },
+
+{
+ "slug": "concurso-banestes-2026-edital-publicado",
+ "cat": "Concursos bancários",
+ "title": "Concurso Banestes 2026: edital publicado com 936 vagas e inscrições a partir de 19/10",
+ "desc": "O Banestes publicou os editais com 936 vagas em cadastro de reserva, banca FCC e prova em 24 de janeiro de 2027. Veja prazos, cargos, taxa e isenção.",
+ "excerpt": "936 vagas, nível médio, banca FCC. Inscrições de 19/10 a 17/11/2026 e prova em 24/01/2027.",
+ "min": 3,
+ "date": "2026-10-17",
+ "body": """
+<p>Saiu o edital do Banestes, o banco do Espírito Santo. São 936 vagas em cadastro de reserva, a maior parte para Técnico Bancário, com prova organizada pela FCC. Quem estava esperando um concurso bancário de nível médio tem aqui uma boa oportunidade.</p>
+
+<h2>Resumo do edital</h2>
+<ul>
+<li><strong>Vagas:</strong> 866 para Técnico Bancário, 20 para Técnico em Segurança do Trabalho e 50 para Assistente Securitário (Banestes Seguros), todas em cadastro de reserva.</li>
+<li><strong>Salário inicial:</strong> de R$ 4.444,43 a R$ 5.618,71, segundo a imprensa especializada. Os portais divergem no piso, então confira no edital.</li>
+<li><strong>Inscrições:</strong> de 19/10/2026 (10h) a 17/11/2026 (23h59), no site da FCC. Taxa de R$ 67. O boleto pode ser pago até 18/11.</li>
+<li><strong>Isenção da taxa:</strong> pedidos de 19 a 21/10/2026, três dias apenas. Se for o seu caso, não deixe para depois.</li>
+<li><strong>Prova objetiva:</strong> 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. São 70 questões (30 de conhecimentos gerais e 40 de específicos), em 4 horas.</li>
+<li><strong>Requisito:</strong> ensino médio completo para Técnico Bancário e Assistente Securitário.</li>
+</ul>
+
+<h2>Como começar</h2>
+<p>A prova é só em janeiro, então dá tempo de montar um plano. Comece pelo que mais pesa: os conhecimentos específicos valem peso 2. Veja <a href="como-estudar-para-concursos-bancarios.html">como estudar para concursos bancários</a> e <a href="como-montar-um-cronograma-que-te-motive.html">como montar um cronograma</a>. Sobre o pedido de isenção, leia <a href="isencao-taxa-de-inscricao-concurso-como-pedir.html">como pedir a isenção</a>. Acompanhe os demais prazos na <a href="../editais.html">página de editais</a>.</p>
+<p>Confirme sempre os dados no edital oficial no site da FCC antes de se inscrever.</p>
+
+<h2>Fontes</h2>
+<ul>
+<li><a href="https://concursos.estrategia.com/portal/concurso-banestes/" target="_blank" rel="noopener">Estratégia Concursos: Concurso Banestes</a></li>
+<li><a href="https://www.direcaoconcursos.com.br/noticias/edital-concurso-banestes-publicado" target="_blank" rel="noopener">Direção Concursos: edital Banestes publicado</a></li>
+<li><a href="https://blog.grancursosonline.com.br/concurso-banestes-edital-publicado-2026/" target="_blank" rel="noopener">Gran Cursos: edital Banestes 2026</a></li>
+</ul>
+"""
+},
 ]
