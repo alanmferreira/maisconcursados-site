@@ -35,6 +35,9 @@ window.MC_CONFIG = {
   whatsappGroupUrl: "https://chat.whatsapp.com/E4UEBEedzbH2DpyvREZUoH?s=cl&p=a&mlu=4&ilr=4",
   // Link de pagamento ou de inscrição da turma Bancada BACEN (Herospark, Hotmart etc.). Vazio = botão leva à lista de espera.
   checkoutBancadaUrl: "",
+  // Login da Área do aluno: cursos (plataforma) e mentorias (App Bancada).
+  alunoCursosUrl: "https://cursos.maisconcursados.com.br/users/sign_in",
+  alunoBancadaUrl: "",
   // E-mail de contato exibido na página Contato (opcional).
   contactEmail: "",
   // ID do Google Analytics 4, no formato G-XXXXXXXXXX (opcional).
@@ -47,7 +50,7 @@ def esc(s): return html.escape(s, quote=True)
 
 def tag_nav(active, root):
     items = [("index.html", "Início", "inicio"), ("editais.html", "Editais", "editais"), ("cursos.html", "Cursos", "cursos"), ("blog.html", "Blog", "blog"),
-             ("sobre.html", "Sobre", "sobre")]
+             ("sobre.html", "Sobre", "sobre"), ("area-do-aluno.html", "Área do aluno", "aluno")]
     out = []
     for href, label, key in items:
         cur = ' aria-current="page"' if active == key else ""
@@ -67,10 +70,10 @@ def header(active, root):
 def footer(root):
     return ('<footer><div class="wrap">'
             '<div><h4>Mais Concursados</h4><p>Editais de concursos de todas as áreas, com destaque para os bancários, e estudo com método para quem quer a aprovação. Por Alan Moraes, bancário, professor e mentor para concursos.</p></div>'
-            '<div><h4>Navegue</h4><ul><li><a href="%seditais.html">Editais</a></li><li><a href="%scursos.html">Cursos</a></li><li><a href="%sblog.html">Blog</a></li><li><a href="%smentorias.html">Mentorias</a></li></ul></div>'
+            '<div><h4>Navegue</h4><ul><li><a href="%seditais.html">Editais</a></li><li><a href="%scursos.html">Cursos</a></li><li><a href="%sblog.html">Blog</a></li><li><a href="%smentorias.html">Mentorias</a></li><li><a href="%sarea-do-aluno.html">Área do aluno</a></li></ul></div>'
             '<div><h4>Institucional</h4><ul><li><a href="%ssobre.html">Sobre o Alan</a></li><li><a href="%scontato.html">Contato</a></li><li><a href="%sprivacidade.html">Política de privacidade</a></li></ul></div>'
             '<p class="legal">© 2026 Mais Concursados · maisconcursados.com.br. As informações de editais vêm de portais de notícias e devem ser conferidas no edital oficial. O Mais Concursados não é banca organizadora nem órgão público.</p>'
-            '</div></footer>') % ((root,) * 7)
+            '</div></footer>') % ((root,) * 8)
 
 def lead_form(origem, interesse_hidden=None, wpp=True, label_btn="Quero receber os alertas", fid="x"):
     hid = '<input type="hidden" name="interesse" value="%s">' % esc(interesse_hidden) if interesse_hidden else ""
@@ -462,6 +465,29 @@ def grupo():
 """
     return page("entrar-no-grupo.html", "Entre no grupo do WhatsApp", "Entre no grupo do WhatsApp do Mais Concursados e receba os alertas de editais.", body, "", extra_head='<meta name="robots" content="noindex, follow">')
 
+def aluno():
+    body = """
+<article class="narrow">
+ <header class="article-head"><span class="mono">Área do aluno</span><h1>Já é aluno? Escolha o seu acesso</h1>
+ <p style="color:var(--muted);margin:10px 0 24px">Entre na plataforma certa para continuar estudando.</p></header>
+ <div class="grid3" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr))">
+  <div class="card-form" style="display:flex;flex-direction:column;gap:12px">
+   <span class="mono">Cursos</span><h2 style="margin:0">Sou aluno de Cursos</h2>
+   <p style="color:var(--muted);flex:1">Aulas gravadas, materiais e questões na plataforma de cursos.</p>
+   <a class="btn" data-config-link="alunoCursosUrl" href="#" rel="noopener">Entrar nos Cursos</a>
+  </div>
+  <div class="card-form" style="display:flex;flex-direction:column;gap:12px">
+   <span class="mono">Mentorias</span><h2 style="margin:0">Sou aluno de Mentorias</h2>
+   <p style="color:var(--muted);flex:1">Roteiro, encontros e acompanhamento no App Bancada.</p>
+   <a class="btn" data-config-link="alunoBancadaUrl" data-config-show="alunoBancadaUrl" href="#" rel="noopener" hidden>Entrar no App Bancada</a>
+   <p class="note" data-config-hide="alunoBancadaUrl">Acesso em breve. Fale com o Alan pelo <a href="contato.html">Instagram</a>.</p>
+  </div>
+ </div>
+ <p class="note" style="margin-top:24px">Esqueceu a senha ou está sem acesso? Chame o Alan no <a href="contato.html">Instagram</a>. Ainda não é aluno? Veja os <a href="cursos.html">cursos</a> e a <a href="mentorias.html">mentoria</a>.</p>
+</article>
+"""
+    return page("area-do-aluno.html", "Área do aluno", "Acesse a plataforma de Cursos ou o App Bancada da Mentoria do Mais Concursados.", body, "aluno")
+
 def privacidade():
     body = """
 <article class="narrow">
@@ -510,7 +536,7 @@ if os.path.isdir(OUT):
 os.makedirs(OUT)
 
 pages = [("index.html", home()), ("editais.html", editais()), ("blog.html", blog()), ("mentorias.html", mentorias()), ("cursos.html", cursos()),
-         ("sobre.html", sobre()), ("contato.html", contato()), ("privacidade.html", privacidade()), ("entrar-no-grupo.html", grupo())]
+         ("sobre.html", sobre()), ("contato.html", contato()), ("privacidade.html", privacidade()), ("entrar-no-grupo.html", grupo()), ("area-do-aluno.html", aluno())]
 for a in ARTICLES:
     pages.append(("blog/%s.html" % a["slug"], article(a)))
 if MODE != "preview":

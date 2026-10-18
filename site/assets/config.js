@@ -11,6 +11,9 @@ window.MC_CONFIG = {
   whatsappGroupUrl: "https://chat.whatsapp.com/E4UEBEedzbH2DpyvREZUoH?s=cl&p=a&mlu=4&ilr=4",
   // Link de pagamento ou de inscrição da turma Bancada BACEN (Herospark, Hotmart etc.). Vazio = botão leva à lista de espera.
   checkoutBancadaUrl: "",
+  // Login da Área do aluno: cursos (plataforma) e mentorias (App Bancada).
+  alunoCursosUrl: "https://cursos.maisconcursados.com.br/users/sign_in",
+  alunoBancadaUrl: "",
   // E-mail de contato exibido na página Contato (opcional).
   contactEmail: "",
   // ID do Google Analytics 4, no formato G-XXXXXXXXXX (opcional).
