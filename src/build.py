@@ -37,7 +37,7 @@ window.MC_CONFIG = {
   checkoutBancadaUrl: "",
   // Login da Área do aluno: cursos (plataforma) e mentorias (App Bancada).
   alunoCursosUrl: "https://cursos.maisconcursados.com.br/users/sign_in",
-  alunoBancadaUrl: "",
+  alunoBancadaUrl: "https://bancada.maisconcursados.com.br/",
   // E-mail de contato exibido na página Contato (opcional).
   contactEmail: "",
   // ID do Google Analytics 4, no formato G-XXXXXXXXXX (opcional).
