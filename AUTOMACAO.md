@@ -9,3 +9,6 @@
 
 Regras: só alterar dados confirmados em fonte oficial; o que estiver incerto vai como "a confirmar" no resumo, sem publicar.
 `site/` é a saída publicada: nunca editar à mão, sempre gerar pelo build.
+
+## Nome da rotina
+O resumo diário e a arte dos Stories se chamam **Giro dos Concursos** (título da arte, assunto do e-mail e abertura do texto do WhatsApp).

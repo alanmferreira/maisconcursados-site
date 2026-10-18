@@ -2,7 +2,7 @@
 """Gera a arte de Stories (1080x1920) do resumo diário.
 Uso: python3 src/story.py [story.json]   (padrão: story.json na raiz)
 Entrada (JSON):
-{ "data": "17/10", "titulo": "Concursos de hoje",
+{ "data": "17/10", "titulo": "Giro dos Concursos",
   "itens": [ {"tag": "ENCERRA HOJE", "tom": "warn|good|info", "titulo": "Seduc-CE (Professor)", "detalhe": "Inscrições até 23h59"} ] }   (1 a 4 itens)
 Saída: stories/AAAA-MM-DD.png e stories/ultimo.png
 """
@@ -47,7 +47,7 @@ h1 span{color:#6f8cff}
 <h1>@T@</h1><div class="date">@D@</div><div class="cards">@C@</div></div>
 <div class="foot"><img src="data:image/png;base64,@L@"><div class="site">maisconcursados.com.br<small>@prof.alanmoraes</small></div></div>
 </body></html>"""
-for k, v in {"@H2@": str(size), "@P@": str(int(size * .55)), "@T@": html.escape(d.get("titulo", "Concursos de hoje")).replace("hoje", "<span>hoje</span>"), "@D@": html.escape(d["data"]), "@C@": cards, "@L@": logo}.items():
+for k, v in {"@H2@": str(size), "@P@": str(int(size * .55)), "@T@": html.escape(d.get("titulo", "Giro dos Concursos")).replace("Concursos", "<span>Concursos</span>"), "@D@": html.escape(d["data"]), "@C@": cards, "@L@": logo}.items():
     page = page.replace(k, v)
 
 os.makedirs(os.path.join(BASE, "stories"), exist_ok=True)
