@@ -1,4 +1,5 @@
-{"data":"18/10","titulo":"Giro dos Concursos","itens":[
-{"tag":"ENCERRA AMANHÃ","tom":"warn","titulo":"PC-AP (Cesgranrio)","detalhe":"Inscrições até 19/10. 396 vagas em cadastro de reserva."},
+{"data":"19/10","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA HOJE","tom":"warn","titulo":"PC-AP (Cesgranrio)","detalhe":"Inscrições até 23h59 de hoje. 396 vagas em cadastro de reserva."},
+{"tag":"NOVO","tom":"good","titulo":"Banestes (FCC) abre hoje","detalhe":"936 vagas. Isenção de taxa só até 21/10. Inscrições até 17/11."},
 {"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN","detalhe":"Banca ainda sem confirmação oficial. Edital pode sair até jan/2027."},
-{"tag":"DICA","tom":"good","titulo":"Revisão semanal","detalhe":"Reserve 1h no domingo para refazer os erros da semana."}]}
+{"tag":"DICA","tom":"good","titulo":"Segunda de plano","detalhe":"Monte hoje o cronograma da semana e cumpra a primeira meta."}]}
