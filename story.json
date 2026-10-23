@@ -1,5 +1,5 @@
-{"data":"22/10","titulo":"Giro dos Concursos","itens":[
-{"tag":"ENCERRA AMANHÃ","tom":"warn","titulo":"PC-AP: última chance","detalhe":"Inscrições até 23/10, 23h59. Prova em 06/12, em Macapá."},
-{"tag":"ATENÇÃO","tom":"warn","titulo":"Banestes: inscrições abertas","detalhe":"936 vagas, banca FCC. Inscrições até 17/11. Isenção já encerrou."},
-{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN","detalhe":"Banca ainda sem confirmação oficial. Edital até 3 de janeiro de 2027."},
-{"tag":"DICA","tom":"good","titulo":"Treine por banca","detalhe":"Resolva 20 questões da banca do seu edital hoje e anote os erros."}]}
+{"data":"23/10","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA HOJE","tom":"warn","titulo":"PC-AP: última chance","detalhe":"Inscrições até 23h59 de hoje. Prova em 06/12, em Macapá."},
+{"tag":"ENCERRA EM 6 DIAS","tom":"warn","titulo":"UFBA: 139 vagas","detalhe":"Técnicos, banca Avalia. Inscrições até 29/10."},
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN","detalhe":"Banca ainda sem confirmação oficial. Edital até 03/01/2027."},
+{"tag":"DICA","tom":"good","titulo":"Revise seus erros","detalhe":"Refaça hoje as questões que errou na semana. Erro repetido custa ponto."}]}
