@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-23",
+ "atualizadoEm": "2026-10-24",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -36,13 +36,13 @@
    "org": "Polícia Civil do Amapá",
    "cargo": "Oficial Investigador e Delegado",
    "area": "policial",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "Cesgranrio",
    "vagas": 396,
    "vagasTexto": "396 em cadastro de reserva (294 Oficial Investigador, 102 Delegado)",
    "salario": "R$ 7.327,04 a R$ 31.439,06",
    "inscricoesAte": "2026-10-23",
-   "obs": "Edital publicado em 16/09/2026. Inscrições prorrogadas até 23/10/2026 (23h59), conforme nota da Cesgranrio relatada pela imprensa; taxa paga até 03/11. Prova objetiva prevista para 06/12/2026, em Macapá. Exige nível superior e CNH categoria B.",
+   "obs": "Edital publicado em 16/09/2026. Inscrições encerradas em 23/10/2026 (23h59), conforme nota da Cesgranrio relatada pela imprensa; taxa paga até 03/11. Prova objetiva prevista para 06/12/2026, em Macapá. Exige nível superior e CNH categoria B.",
    "validado": true,
    "fontes": [
     {
@@ -58,7 +58,7 @@
      "url": "https://blog.grancursosonline.com.br/concurso-policia-civil-ap-edital-publicado-2026/"
     }
    ],
-   "conferidoEm": "2026-10-23"
+   "conferidoEm": "2026-10-24"
   },
   {
    "id": "ufba-tecnicos",
@@ -209,7 +209,7 @@
      "url": "https://movimentoeconomico.com.br/concursos/2026/07/06/receita-federal-e-banco-central-tem-concursos-autorizados-com-316-vagas/"
     }
    ],
-   "conferidoEm": "2026-10-23"
+   "conferidoEm": "2026-10-24"
   },
   {
    "id": "receita-federal",
@@ -356,29 +356,29 @@
    "vagas": 936,
    "vagasTexto": "936 em cadastro de reserva (866 Técnico Bancário, 20 Técnico em Segurança do Trabalho, 50 Assistente Securitário)",
    "salario": "R$ 4.444,43 a R$ 5.618,71 (com gratificação de 25%), fora benefícios",
-   "inscricoesAte": "2026-11-17",
-   "obs": "Editais 01/2026 (Banestes) e 02/2026 (Banestes Seguros). Inscrições de 19/10 (10h) a 17/11/2026 (23h59) no site da FCC. Taxa R$ 67. Pedido de isenção de 19 a 21/10/2026. Boleto até 18/11. Prova objetiva em 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. Nível médio completo. Os portais divergem no valor do piso; confira no edital.",
+   "inscricoesAte": "2026-11-23",
+   "obs": "Editais 01/2026 (Banestes) e 02/2026 (Banestes Seguros). Inscrições prorrogadas (Retificação nº 03/2026): de 19/10 (10h) até 23/11/2026 (23h59) no site da FCC; boleto pode ser gerado até as 22h de 24/11. Taxa R$ 67. A retificação incluiu reserva de 10% das vagas para candidatos hipossuficientes. Prova objetiva em 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. Nível médio completo. Confira na retificação as datas do pedido de isenção. Os portais divergem no valor do piso; confira no edital.",
    "destaque": true,
    "validado": true,
    "fontes": [
     {
-     "nome": "Estratégia Concursos",
-     "url": "https://concursos.estrategia.com/portal/concurso-banestes/"
+     "nome": "Estratégia Concursos (inscrições prorrogadas)",
+     "url": "https://concursos.estrategia.com/portal/concurso-banestes-2026-inscricoes-prorrogadas/"
+    },
+    {
+     "nome": "Gran Cursos (inscrições prorrogadas)",
+     "url": "https://blog.grancursosonline.com.br/concurso-banestes-inscricoes-prorrogadas-2026/"
     },
     {
      "nome": "Direção Concursos",
      "url": "https://www.direcaoconcursos.com.br/noticias/edital-concurso-banestes-publicado"
     },
     {
-     "nome": "Gran Cursos",
-     "url": "https://blog.grancursosonline.com.br/concurso-banestes-edital-publicado-2026/"
-    },
-    {
      "nome": "Site da banca (FCC)",
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-10-21"
+   "conferidoEm": "2026-10-24"
   },
   {
    "id": "sefaz-sp",
