@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-26",
+ "atualizadoEm": "2026-10-27",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -175,6 +175,35 @@
     }
    ],
    "conferidoEm": "2026-10-07"
+  },
+  {
+   "id": "trf-3",
+   "org": "TRF da 3ª Região (SP e MS)",
+   "cargo": "Técnico e Analista Judiciário (Oficial de Justiça e áreas de TI e apoio)",
+   "area": "tribunais",
+   "status": "aberto",
+   "banca": "Vunesp",
+   "vagas": 11,
+   "vagasTexto": "11 imediatas + cadastro de reserva",
+   "salario": "Técnico R$ 9.776,73 · Analista R$ 16.040,87 · Oficial de Justiça R$ 20.013,11",
+   "inscricoesAte": "2026-11-23",
+   "obs": "Edital 01/2026, publicado em 26/10/2026. Inscrições de 04/11 (10h) a 23/11/2026 (23h59) no site da Vunesp. Isenção solicitada em 04 e 05/11. Taxa R$ 100 (Técnico) e R$ 160 (Analista). Provas objetiva e discursiva em 31/01/2027.",
+   "validado": true,
+   "fontes": [
+    {
+     "nome": "TRF3 (notícia oficial do edital)",
+     "url": "https://web.trf3.jus.br/noticias/Noticiar/ExibirNoticia/447546-trf3-divulga-edital-de-concurso-para-servidores"
+    },
+    {
+     "nome": "Ache Concursos",
+     "url": "https://acheconcursos.com.br/noticias/edital-trf-3-abre-concurso-para-tecnicos-e-analistas-com-salarios-de-r-9-776-a-r-20-013-94207"
+    },
+    {
+     "nome": "Folha Qconcursos",
+     "url": "https://folha.qconcursos.com/n/concurso-trf3-edital-2026"
+    }
+   ],
+   "conferidoEm": "2026-10-27"
   },
   {
    "id": "bacen",
