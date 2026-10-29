@@ -1,5 +1,5 @@
-{"data":"28/10","titulo":"Giro dos Concursos","itens":[
-{"tag":"ENCERRA EM 1 DIA","tom":"warn","titulo":"UFBA: 139 vagas","detalhe":"Técnicos, banca Avalia. Inscrições até 29/10."},
-{"tag":"ENCERRA EM 2 DIAS","tom":"warn","titulo":"Emater-MG: 108 vagas","detalhe":"Banca Fundep. Inscrições até 30/10. Prova em 29/11."},
-{"tag":"ATENÇÃO","tom":"info","titulo":"BACEN: banca indefinida","detalhe":"Prazo de 16/10 passou sem confirmação. Edital até 03/01/2027."},
-{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"Receita Federal: 146 vagas","detalhe":"Banca ainda sem definição oficial. Edital previsto para dezembro."}]}
+{"data":"29/10","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA HOJE","tom":"warn","titulo":"UFBA: 139 vagas","detalhe":"Técnicos, banca Avalia. Inscrições até hoje, 29/10."},
+{"tag":"ENCERRA AMANHÃ","tom":"warn","titulo":"Emater-MG: 108 vagas","detalhe":"Banca Fundep. Inscrições até 30/10. Prova em 29/11."},
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"Receita Federal: 146 vagas","detalhe":"Banca ainda sem anúncio. Edital previsto até dezembro."},
+{"tag":"DICA","tom":"good","titulo":"Revise o que errou","detalhe":"Refaça hoje as questões erradas da semana e anote o porquê."}]}
