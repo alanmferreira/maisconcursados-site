@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-30",
+ "atualizadoEm": "2026-10-31",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -94,13 +94,13 @@
    "org": "Emater-MG",
    "cargo": "Cargos de nível médio, técnico e superior",
    "area": "outros",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "Fundep",
    "vagas": 108,
    "vagasTexto": "108 + cadastro de reserva",
    "salario": "R$ 3.008,66 a R$ 7.321,75",
    "inscricoesAte": "2026-10-30",
-   "obs": "O edital foi retificado e hoje prevê 108 vagas (antes, 120). Inscrições de 30/09 a 30/10/2026. Prova em 29/11/2026.",
+   "obs": "O edital foi retificado e hoje prevê 108 vagas (antes, 120). Inscrições de 30/09 a 30/10/2026. Prova em 29/11/2026. Inscrições encerradas em 30/10/2026.",
    "validado": true,
    "fontes": [
     {
@@ -242,7 +242,7 @@
      "url": "https://movimentoeconomico.com.br/concursos/2026/07/06/receita-federal-e-banco-central-tem-concursos-autorizados-com-316-vagas/"
     }
    ],
-   "conferidoEm": "2026-10-28"
+   "conferidoEm": "2026-10-31"
   },
   {
    "id": "receita-federal",
@@ -320,7 +320,7 @@
      "url": "https://www.acheconcursos.com.br/noticias/concursos-bancos-2026-2027-veja-editais-previstos-para-sair-em-breve-93188"
     }
    ],
-   "conferidoEm": "2026-10-13"
+   "conferidoEm": "2026-10-31"
   },
   {
    "id": "caixa-tecnico",
@@ -355,7 +355,7 @@
      "url": "https://portaldeprefeitura.com.br/oportunidades/oncurso-caixa-tecnico-bancario-edital-previsto-2027/630444/"
     }
    ],
-   "conferidoEm": "2026-10-13"
+   "conferidoEm": "2026-10-31"
   },
   {
    "id": "bnb",
