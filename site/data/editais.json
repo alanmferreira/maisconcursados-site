@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-31",
+ "atualizadoEm": "2026-11-01",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -242,7 +242,7 @@
      "url": "https://movimentoeconomico.com.br/concursos/2026/07/06/receita-federal-e-banco-central-tem-concursos-autorizados-com-316-vagas/"
     }
    ],
-   "conferidoEm": "2026-10-31"
+   "conferidoEm": "2026-11-01"
   },
   {
    "id": "receita-federal",
@@ -285,7 +285,7 @@
      "url": "https://movimentoeconomico.com.br/concursos/2026/07/06/receita-federal-e-banco-central-tem-concursos-autorizados-com-316-vagas/"
     }
    ],
-   "conferidoEm": "2026-10-28"
+   "conferidoEm": "2026-11-01"
   },
   {
    "id": "banco-do-brasil",
@@ -581,6 +581,32 @@
    "previsao": "",
    "validado": true,
    "conferidoEm": "2026-10-13"
+  },
+  {
+   "id": "dpe-am-servidores",
+   "org": "Defensoria Pública do Amazonas (DPE-AM)",
+   "cargo": "Analista e Assistente Técnico",
+   "area": "outros",
+   "status": "aberto",
+   "banca": "FCC",
+   "vagas": 5,
+   "vagasTexto": "5 imediatas + cadastro de reserva",
+   "salario": "R$ 4.713,02 a R$ 8.006,38",
+   "inscricoesAte": "2027-01-04",
+   "previsao": "",
+   "obs": "Edital publicado em 31/10/2026. Inscrições de 30/11/2026 a 04/01/2027, só pela internet. Isenção de 30/11 a 04/12/2026. Taxa R$ 100 (médio/técnico) e R$ 125 (superior); pagamento até 05/01/2027. Prova objetiva em 07/03/2027 (60 questões). Níveis médio, técnico e superior.",
+   "validado": true,
+   "fontes": [
+    {
+     "nome": "Estratégia Concursos",
+     "url": "https://concursos.estrategia.com/portal/concurso-dpe-am-2026-edital-publicado"
+    },
+    {
+     "nome": "Gran Cursos",
+     "url": "https://blog.grancursosonline.com.br/concurso-dpe-am-edital-publicado-2026"
+    }
+   ],
+   "conferidoEm": "2026-11-01"
   }
  ]
 }
