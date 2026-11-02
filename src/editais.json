@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-01",
+ "atualizadoEm": "2026-11-02",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -116,7 +116,7 @@
      "url": "https://blog.grancursosonline.com.br/concurso-emater-mg-edital-publicado-2026/amp/"
     }
    ],
-   "conferidoEm": "2026-10-07"
+   "conferidoEm": "2026-11-02"
   },
   {
    "id": "trt-8",
@@ -129,9 +129,13 @@
    "vagasTexto": "Cadastro de reserva",
    "salario": "Analista R$ 16.040,88 · Técnico R$ 9.776,71",
    "inscricoesAte": "2026-11-05",
-   "obs": "Edital 1/2026. Inscrições de 05/10 a 05/11/2026 em www.concursosfcc.com.br. Taxa R$ 110 (Analista) e R$ 90 (Técnico).",
+   "obs": "Edital 1/2026. Inscrições de 05/10 a 05/11/2026 em www.concursosfcc.com.br. Taxa R$ 110 (Analista) e R$ 90 (Técnico). Retificação (Edital nº 3/2026, DOU de 29/10) ajustou regras de PcD, provas discursivas e TAF; prazos mantidos.",
    "validado": true,
    "fontes": [
+    {
+     "nome": "Gran Cursos (retificação)",
+     "url": "https://blog.grancursosonline.com.br/concurso-trt-8-retificacao-edital-2026/"
+    },
     {
      "nome": "Valor Final (edital 1/2026)",
      "url": "https://valorfinal.com.br/concursos/edital/tribunal-regional-do-trabalho-da-8-regiao__1-2026"
@@ -145,7 +149,7 @@
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-10-07"
+   "conferidoEm": "2026-11-02"
   },
   {
    "id": "tce-go-tecnico",
@@ -441,9 +445,17 @@
    "salario": "R$ 11.359,50",
    "inscricoesAte": "2026-11-03",
    "previsao": "",
-   "obs": "Edital publicado em outubro. Inscrições de 05/10 a 03/11/2026. Prova em 13/12/2026. Taxa R$ 150. Exige nível superior.",
+   "obs": "Edital publicado em outubro. Inscrições de 05/10 a 03/11/2026. Prova em 20/12/2026 em São Paulo (adiada de 13/12, conforme Edital nº 02/2026). Taxa R$ 150. Exige nível superior.",
    "validado": true,
    "fontes": [
+    {
+     "nome": "Gran Cursos (cronograma alterado)",
+     "url": "https://blog.grancursosonline.com.br/concurso-sefaz-sp/"
+    },
+    {
+     "nome": "Magistrar (cronograma alterado, 22/10)",
+     "url": "https://magistrarcursos.com.br/blog/concurso-sefaz-sp/"
+    },
     {
      "nome": "Folha Qconcursos (edital)",
      "url": "https://folha.qconcursos.com/n/concurso-sefaz-sp-2026-edital-analista"
@@ -457,7 +469,7 @@
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-10-07"
+   "conferidoEm": "2026-11-02"
   },
   {
    "id": "cgu-auditor",
