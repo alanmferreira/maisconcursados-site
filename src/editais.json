@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04",
+  "atualizadoEm": "2026-11-05",
   "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
   "editais": [
     {
@@ -476,7 +476,7 @@
       "org": "CGU (Controladoria-Geral da União)",
       "cargo": "Auditor Federal de Finanças e Controle",
       "area": "fiscal",
-      "status": "aberto",
+      "status": "encerrado",
       "banca": "Cebraspe",
       "vagas": 60,
       "vagasTexto": "60 (30 Auditoria, 30 TI) + cadastro de reserva",
@@ -504,7 +504,7 @@
       ],
       "previsao": "",
       "validado": true,
-      "conferidoEm": "2026-11-03"
+      "conferidoEm": "2026-11-05"
     },
     {
       "id": "camara-analista",
@@ -629,7 +629,7 @@
       "org": "ALEPA (Assembleia Legislativa do Pará)",
       "cargo": "Cargos de nível médio, superior e Procurador",
       "area": "outros",
-      "status": "aberto",
+      "status": "encerrado",
       "banca": "Fundação CETAP",
       "vagas": 135,
       "vagasTexto": "135 (17 de nível médio e 118 de nível superior, 5 de Procurador)",
@@ -647,7 +647,7 @@
           "url": "https://www.novaconcursos.com.br/portal/?p=316150"
         }
       ],
-      "conferidoEm": "2026-11-04"
+      "conferidoEm": "2026-11-05"
     }
   ]
 }
