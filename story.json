@@ -1,5 +1,5 @@
-{"data":"05/11","titulo":"Giro dos Concursos","itens":[
-{"tag":"ENCERRA HOJE","tom":"warn","titulo":"TRT-8: Analista e Técnico","detalhe":"FCC. Inscrições só até hoje, 5/11. TCE-GO fecha amanhã, 6/11."},
-{"tag":"NOVO","tom":"good","titulo":"TRF-3: inscrições abertas","detalhe":"Vunesp. De 4/11 a 23/11. Taxa R$ 100 a R$ 160. Prova em 31/1."},
-{"tag":"ATENÇÃO","tom":"warn","titulo":"Banestes: até 23/11","detalhe":"Banca FCC. 936 vagas em cadastro de reserva. Prazo prorrogado."},
-{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"IBGE: edital a confirmar","detalhe":"Cesgranrio. Previsto para hoje, mas sem confirmação oficial."}]}
+{"data":"06/11","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA HOJE","tom":"warn","titulo":"TCE-GO: Técnico","detalhe":"FCC. Inscrições até 23h59 de hoje, 6/11. Taxa R$ 100."},
+{"tag":"NOVO","tom":"good","titulo":"IBGE: 27.279 vagas","detalhe":"Cesgranrio. Recenseador. Inscrições de 6/11 a 25/11. Taxa R$ 70."},
+{"tag":"ATENÇÃO","tom":"warn","titulo":"Banestes: até 23/11","detalhe":"Banca FCC. 936 vagas em cadastro de reserva."},
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN: banca a definir","detalhe":"170 vagas autorizadas. Sem banca nem edital oficiais ainda."}]}
