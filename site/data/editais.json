@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-06",
+ "atualizadoEm": "2026-11-07",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -156,13 +156,13 @@
    "org": "TCE-GO",
    "cargo": "Técnico de Controle Externo (Administrativo e TI)",
    "area": "fiscal",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "FCC",
    "vagas": 16,
    "vagasTexto": "16 (6 Administrativo, 10 TI)",
    "salario": "R$ 11.862,19",
    "inscricoesAte": "2026-11-06",
-   "obs": "Edital 01/2026. Exige ensino médio. Inscrições de 05/10 a 06/11/2026. Prova em 17/01/2027, em Goiânia. Taxa R$ 100. Alguns portais listam o cargo como Auditor, mas o edital diz Técnico de Controle Externo. Último dia de inscrição: 06/11/2026 (até 23h59); taxa pode ser paga até 09/11.",
+   "obs": "Edital 01/2026. Exige ensino médio. Inscrições de 05/10 a 06/11/2026. Prova em 17/01/2027, em Goiânia. Taxa R$ 100. Alguns portais listam o cargo como Auditor, mas o edital diz Técnico de Controle Externo. Inscrições encerradas em 06/11/2026; taxa podia ser paga até 09/11.",
    "validado": true,
    "fontes": [
     {
@@ -178,7 +178,7 @@
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-11-06"
+   "conferidoEm": "2026-11-07"
   },
   {
    "id": "trf-3",
@@ -677,6 +677,35 @@
     }
    ],
    "conferidoEm": "2026-11-06"
+  },
+  {
+   "id": "pc-ac",
+   "org": "Polícia Civil do Acre",
+   "cargo": "Delegado, Perito, Oficial Investigador, Papiloscopista e Auxiliar de Necropsia",
+   "area": "policial",
+   "status": "aberto",
+   "banca": "Idecan",
+   "vagas": 139,
+   "vagasTexto": "139 + cadastro de reserva (8 Delegado, 74 Oficial Investigador, 35 Papiloscopista, 11 Perito Criminal, 4 Perito Médico-Legista, 7 Auxiliar de Necropsia)",
+   "salario": "R$ 6.342,07 a R$ 19.505,66",
+   "inscricoesAte": "2026-12-14",
+   "obs": "Edital publicado em 06/11/2026. Inscrições de 11/11 a 14/12/2026, só pelo site do Idecan; taxa R$ 105 (demais cargos) e R$ 133 (Delegado), paga até 15/12. Isenção: pedidos em 11 e 12/11. Provas objetiva e discursiva em 24/01/2027, em 13 cidades do Acre. Exige nível superior.",
+   "validado": true,
+   "fontes": [
+    {
+     "nome": "Direção Concursos (edital publicado)",
+     "url": "https://www.direcaoconcursos.com.br/noticias/edital-concurso-pc-ac-publicado-2026"
+    },
+    {
+     "nome": "Estratégia Concursos",
+     "url": "https://concursos.estrategia.com/portal/concurso-pc-ac-2026-edital-publicado/"
+    },
+    {
+     "nome": "Gran Cursos",
+     "url": "https://blog.grancursosonline.com.br/concurso-pc-ac-edital-publicado-2026/"
+    }
+   ],
+   "conferidoEm": "2026-11-07"
   }
  ]
 }

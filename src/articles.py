@@ -380,7 +380,7 @@ ARTICLES = [
  "cat": "Concursos bancários",
  "title": "Concurso Banestes 2026: edital publicado com 936 vagas e inscrições a partir de 19/10",
  "desc": "O Banestes publicou os editais com 936 vagas em cadastro de reserva, banca FCC e prova em 24 de janeiro de 2027. Veja prazos, cargos, taxa e isenção.",
- "excerpt": "936 vagas, nível médio, banca FCC. Inscrições de 19/10 a 17/11/2026 e prova em 24/01/2027.",
+ "excerpt": "936 vagas, nível médio, banca FCC. Inscrições de 19/10 a 23/11/2026 (prorrogadas) e prova em 24/01/2027.",
  "min": 3,
  "date": "2026-10-17",
  "body": """
@@ -390,7 +390,7 @@ ARTICLES = [
 <ul>
 <li><strong>Vagas:</strong> 866 para Técnico Bancário, 20 para Técnico em Segurança do Trabalho e 50 para Assistente Securitário (Banestes Seguros), todas em cadastro de reserva.</li>
 <li><strong>Salário inicial:</strong> de R$ 4.444,43 a R$ 5.618,71, segundo a imprensa especializada. Os portais divergem no piso, então confira no edital.</li>
-<li><strong>Inscrições:</strong> de 19/10/2026 (10h) a 17/11/2026 (23h59), no site da FCC. Taxa de R$ 67. O boleto pode ser pago até 18/11.</li>
+<li><strong>Inscrições:</strong> de 19/10/2026 (10h) a 23/11/2026 (23h59), no site da FCC. O prazo original era 17/11 e foi prorrogado em uma semana. Taxa de R$ 67. O boleto pode ser pago até 24/11.</li>
 <li><strong>Isenção da taxa:</strong> pedidos de 19 a 21/10/2026, três dias apenas. Se for o seu caso, não deixe para depois.</li>
 <li><strong>Prova objetiva:</strong> 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. São 70 questões (30 de conhecimentos gerais e 40 de específicos), em 4 horas.</li>
 <li><strong>Requisito:</strong> ensino médio completo para Técnico Bancário e Assistente Securitário.</li>
@@ -405,6 +405,40 @@ ARTICLES = [
 <li><a href="https://concursos.estrategia.com/portal/concurso-banestes/" target="_blank" rel="noopener">Estratégia Concursos: Concurso Banestes</a></li>
 <li><a href="https://www.direcaoconcursos.com.br/noticias/edital-concurso-banestes-publicado" target="_blank" rel="noopener">Direção Concursos: edital Banestes publicado</a></li>
 <li><a href="https://blog.grancursosonline.com.br/concurso-banestes-edital-publicado-2026/" target="_blank" rel="noopener">Gran Cursos: edital Banestes 2026</a></li>
+</ul>
+"""
+},
+
+{
+ "slug": "concurso-pc-ac-2026-edital-publicado",
+ "cat": "Concursos policiais",
+ "title": "Concurso PC-AC 2026: edital publicado com 139 vagas e salários de até R$ 19,5 mil",
+ "desc": "A Polícia Civil do Acre publicou o edital com 139 vagas, banca Idecan e provas em 24 de janeiro de 2027. Veja cargos, salários, taxas e prazos.",
+ "excerpt": "139 vagas, nível superior, banca Idecan. Inscrições de 11/11 a 14/12/2026 e provas em 24/01/2027.",
+ "min": 3,
+ "date": "2026-11-07",
+ "body": """
+<p>Saiu o edital da Polícia Civil do Acre. São 139 vagas imediatas, mais cadastro de reserva, com prova organizada pelo Idecan. Todos os cargos pedem nível superior.</p>
+
+<h2>Resumo do edital</h2>
+<ul>
+<li><strong>Vagas:</strong> 8 para Delegado, 74 para Oficial Investigador, 35 para Papiloscopista, 11 para Perito Criminal, 4 para Perito Médico-Legista e 7 para Auxiliar de Necropsia.</li>
+<li><strong>Salários:</strong> R$ 19.505,66 (Delegado), R$ 14.629,25 (Peritos) e R$ 6.342,07 (Oficial Investigador, Papiloscopista e Auxiliar de Necropsia).</li>
+<li><strong>Inscrições:</strong> de 11/11/2026 a 14/12/2026, somente pelo site do Idecan. Taxa de R$ 133 para Delegado e R$ 105 para os demais cargos, com pagamento até 15/12.</li>
+<li><strong>Isenção da taxa:</strong> pedidos nos dias 11 e 12/11/2026.</li>
+<li><strong>Provas:</strong> objetiva (100 questões) e discursiva em 24/01/2027, em 13 cidades do Acre.</li>
+<li><strong>Requisitos:</strong> Delegado exige bacharelado em Direito e três anos de atividade jurídica ou policial; os demais cargos exigem graduação na área específica. CNH exigida.</li>
+</ul>
+
+<h2>Como começar</h2>
+<p>Com a prova em janeiro, dá tempo de montar um plano. Veja <a href="como-montar-um-cronograma-que-te-motive.html">como montar um cronograma que te motive</a> e, se for pedir a isenção, leia <a href="isencao-taxa-de-inscricao-concurso-como-pedir.html">como pedir a isenção da taxa</a>, porque o prazo é de apenas dois dias. Acompanhe os demais prazos na <a href="../editais.html">página de editais</a>.</p>
+<p>Confirme sempre os dados no edital oficial no site do Idecan antes de se inscrever.</p>
+
+<h2>Fontes</h2>
+<ul>
+<li><a href="https://www.direcaoconcursos.com.br/noticias/edital-concurso-pc-ac-publicado-2026" target="_blank" rel="noopener">Direção Concursos: edital PC AC publicado</a></li>
+<li><a href="https://concursos.estrategia.com/portal/concurso-pc-ac-2026-edital-publicado/" target="_blank" rel="noopener">Estratégia Concursos: edital PC AC 2026</a></li>
+<li><a href="https://blog.grancursosonline.com.br/concurso-pc-ac-edital-publicado-2026/" target="_blank" rel="noopener">Gran Cursos: edital PC AC</a></li>
 </ul>
 """
 },
