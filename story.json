@@ -1,5 +1,5 @@
-{"data":"07/11","titulo":"Giro dos Concursos","itens":[
-{"tag":"NOVO","tom":"good","titulo":"PC-AC: 139 vagas","detalhe":"Idecan. Inscrições de 11/11 a 14/12. Nível superior. Prova 24/01."},
+{"data":"08/11","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA EM 3 DIAS","tom":"warn","titulo":"SAEB-BA: até 11/11","detalhe":"Cesgranrio. 50 vagas de EPPGG. Nível superior. Prova 10/01."},
 {"tag":"ATENÇÃO","tom":"warn","titulo":"Banestes: até 23/11","detalhe":"FCC. 936 vagas em cadastro de reserva. Taxa R$ 67."},
-{"tag":"ATENÇÃO","tom":"warn","titulo":"IBGE: até 25/11","detalhe":"Cesgranrio. 27.279 vagas temporárias. Taxa R$ 70."},
-{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN: banca a definir","detalhe":"170 vagas autorizadas. Sem banca nem edital oficiais ainda."}]}
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN e Receita: sem edital","detalhe":"Bancas ainda sem confirmação oficial. Edital até 03/01/2027."},
+{"tag":"DICA","tom":"good","titulo":"Revise hoje, 30 minutos","detalhe":"Refaça os erros da última semana de questões antes de avançar."}]}
