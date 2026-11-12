@@ -442,4 +442,36 @@ ARTICLES = [
 </ul>
 """
 },
+{
+ "slug": "concurso-banestes-2026-645-vagas-nivel-superior",
+ "cat": "Concursos bancários",
+ "title": "Banestes abre novo concurso com 645 vagas e salários de até R$ 6,3 mil",
+ "desc": "Banestes e Banescor publicaram novos editais com 645 vagas em cadastro de reserva, banca FCC e prova em 21 de fevereiro de 2027. Veja cargos, taxas e prazos.",
+ "excerpt": "645 vagas, banca FCC. Inscrições de 12/11 a 11/12/2026 e prova em 21/02/2027.",
+ "min": 3,
+ "date": "2026-11-12",
+ "body": """
+<p>O Banestes publicou, em 11/11/2026, um novo par de editais, agora com foco em nível superior. São 645 vagas em cadastro de reserva, com prova organizada pela FCC. É um concurso diferente daquele de Técnico Bancário, que segue com inscrições abertas.</p>
+
+<h2>Resumo dos editais</h2>
+<ul>
+<li><strong>Vagas:</strong> 625 de nível superior no Banestes, sendo 440 para Analista de TI (Desenvolvimento de Sistemas), e 20 de Assistente Securitário (nível médio) na Banescor. Todas em cadastro de reserva.</li>
+<li><strong>Salários:</strong> R$ 6.393,38 (Analista de TI), R$ 4.936,44 (Econômico-Financeiro, Assistente Social e Comunicação) e R$ 4.444,43 (Assistente Securitário), fora benefícios.</li>
+<li><strong>Inscrições:</strong> de 12/11 (10h) a 11/12/2026 (23h59), somente pelo site da FCC. Boleto até 14/12.</li>
+<li><strong>Taxa:</strong> R$ 87 para nível superior e R$ 67 para Assistente Securitário.</li>
+<li><strong>Prova objetiva:</strong> 21/02/2027, pela manhã, em Vitória, São Mateus e Cachoeiro de Itapemirim.</li>
+</ul>
+
+<h2>Como começar</h2>
+<p>Com a prova em fevereiro, dá tempo de se organizar. Veja <a href="como-montar-um-cronograma-que-te-motive.html">como montar um cronograma que te motive</a> e, se for pedir a isenção, leia o guia sobre <a href="isencao-taxa-de-inscricao-concurso-como-pedir.html">isenção da taxa de inscrição</a>.</p>
+<p>Os portais divergem no número dos editais e nos detalhes da isenção. Confirme tudo no edital oficial, no site da FCC, antes de se inscrever.</p>
+
+<h2>Fontes</h2>
+<ul>
+<li><a href="https://www.acheconcursos.com.br/concursos-espirito-santo/concurso-banestes-2026-saem-novos-editais-645-vagas-94579" target="_blank" rel="noopener">Ache Concursos: novos editais Banestes</a></li>
+<li><a href="https://diariodamidia.com.br/banestes-lanca-concurso-com-645-vagas-em-cr-e-salario-de-r-63-mil" target="_blank" rel="noopener">Diário da Mídia: Banestes lança concurso com 645 vagas</a></li>
+<li><a href="https://tribunaonline.com.br/economia/empregoseestagios/banestes-abre-concursos-com-645-vagas-e-salarios-de-ate-r-63-mil-334655" target="_blank" rel="noopener">Tribuna Online: Banestes abre concursos</a></li>
+</ul>
+"""
+},
 ]

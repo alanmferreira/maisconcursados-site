@@ -1,5 +1,5 @@
-{"data":"10/11","titulo":"Giro dos Concursos","itens":[
-{"tag":"NOVO","tom":"good","titulo":"IBGE: 27.279 vagas","detalhe":"Recenseador, Cesgranrio. Inscrições até 25/11. Taxa R$ 70. Prova 31/1."},
-{"tag":"ENCERRA AMANHÃ","tom":"warn","titulo":"SAEB-BA: EPPGG","detalhe":"Cesgranrio. 50 vagas, inscrições até 11/11. Prova em 10/1."},
-{"tag":"ENCERRA EM 7 DIAS","tom":"warn","titulo":"Câmara dos Deputados","detalhe":"Cebraspe. Analista, R$ 32 mil. Inscrições até 17/11, 18h."},
-{"tag":"BANCÁRIO","tom":"info","titulo":"Banestes: até 23/11","detalhe":"FCC. 936 vagas, taxa R$ 67. BACEN e BB seguem sem edital."}]}
+{"data":"12/11","titulo":"Giro dos Concursos","itens":[
+{"tag":"NOVO","tom":"good","titulo":"Banestes: 645 vagas","detalhe":"FCC, nível superior. Inscrições de 12/11 a 11/12. Prova em 21/02."},
+{"tag":"ENCERRA EM 5 DIAS","tom":"warn","titulo":"Câmara dos Deputados","detalhe":"Cebraspe. Analista, R$ 32 mil. Inscrições até 17/11, 18h."},
+{"tag":"ATENÇÃO","tom":"warn","titulo":"Banestes Técnico: 23/11","detalhe":"FCC. 936 vagas, nível médio, taxa R$ 67. Prova em 24/01."},
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN sem banca","detalhe":"Edital previsto até o fim de 2026. BB e Caixa sem edital."}]}
