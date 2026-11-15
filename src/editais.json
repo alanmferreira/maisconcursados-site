@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-14",
+ "atualizadoEm": "2026-11-15",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -220,33 +220,25 @@
    "vagasTexto": "170 (100 Auditor, 50 Técnico, 20 Procurador)",
    "salario": "Estimado: Auditor R$ 18.033,52 · Técnico R$ 8.300 · Procurador R$ 27.264,30",
    "inscricoesAte": "",
-   "previsao": "Autorizado em 03/07/2026. Edital previsto até 03/01/2027.",
-   "obs": "Ainda sem edital e sem banca definida. O Banco Central previa contratar a banca até 16/10, mas essa data era só referência de planejamento (R$ 10 milhões reservados) e passou sem confirmação oficial. O edital precisa sair até 03/01/2027. Prova só ocorre 2 meses ou mais após o edital. Os salários são estimativas da imprensa. Os concursos anteriores foram feitos pelo Cebraspe, mas isso não confirma a banca do novo certame.",
+   "previsao": "Autorizado em 03/07/2026. Edital previsto até 30/12/2026.",
+   "obs": "Ainda sem edital e sem banca definida. Um FAQ do Banco Central (10/11/2026), relatado pela imprensa, indica edital até 30/12/2026, antes do limite legal de 03/01/2027. Há R$ 10 milhões reservados para contratar a banca, e a referência de 16/10 passou sem confirmação oficial. Prova só ocorre 2 meses ou mais após o edital. O Senado aprovou em 29/10 a MP 1.375/2026, que exige nível superior para Técnico; a matéria aguarda sanção. Os salários são estimativas da imprensa. Os concursos anteriores foram feitos pelo Cebraspe, mas isso não confirma a banca do novo certame.",
    "destaque": true,
    "validado": true,
    "fontes": [
     {
-     "nome": "Folha Qconcursos (atualizado em 27/10)",
-     "url": "https://folha.qconcursos.com/n/concurso-bacen-2026-contratacao-da-banca-ate-outubro"
+     "nome": "Gran Cursos (atualizado em 12/11)",
+     "url": "https://blog.grancursosonline.com.br/concurso-bacen/"
     },
     {
-     "nome": "Nova Concursos (06/10)",
-     "url": "https://www.novaconcursos.com.br/portal/noticias/concurso-bacen-banca-outubro/"
+     "nome": "Terra (edital até 30/12)",
+     "url": "https://www.terra.com.br/noticias/educacao/carreira/concurso-bacen-2026-edital-com-170-vagas-pode-sair-ate-30-de-dezembro,f451de24f90a1093156bdd5a8db7531cu5jeclt5.html"
     },
     {
-     "nome": "Folha Qconcursos",
-     "url": "https://folha.qconcursos.com/n/concurso-bacen-2026-contratacao-da-banca-ate-outubro"
-    },
-    {
-     "nome": "Nova Concursos",
-     "url": "https://www.novaconcursos.com.br/portal/?p=313998"
-    },
-    {
-     "nome": "Movimento Econômico",
-     "url": "https://movimentoeconomico.com.br/concursos/2026/07/06/receita-federal-e-banco-central-tem-concursos-autorizados-com-316-vagas/"
+     "nome": "Acheconcursos (MP 1.375, Técnico nível superior)",
+     "url": "https://www.acheconcursos.com.br/noticias/senado-muda-requisito-para-tecnico-do-banco-central-e-novo-concurso-tera-mudanca-94330"
     }
    ],
-   "conferidoEm": "2026-11-01"
+   "conferidoEm": "2026-11-15"
   },
   {
    "id": "receita-federal",
@@ -431,7 +423,7 @@
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-11-12"
+   "conferidoEm": "2026-11-15"
   },
   {
    "id": "banestes-superior",
@@ -569,7 +561,7 @@
    ],
    "previsao": "",
    "validado": true,
-   "conferidoEm": "2026-10-13"
+   "conferidoEm": "2026-11-15"
   },
   {
    "id": "pc-pe",
