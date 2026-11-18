@@ -1,5 +1,4 @@
-{"data":"17/11","titulo":"Giro dos Concursos","itens":[
-{"tag":"ENCERRA HOJE","tom":"warn","titulo":"Câmara dos Deputados","detalhe":"Cebraspe. Analista, R$ 32 mil. Inscrições só até 18h de hoje."},
-{"tag":"ENCERRA EM 6 DIAS","tom":"warn","titulo":"Banestes e TRF-3: 23/11","detalhe":"Banestes (FCC, 936 vagas) e TRF-3 (Vunesp) fecham em 23/11."},
-{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN, BB e Caixa","detalhe":"BACEN: edital até 30/12, sem banca. BB e Caixa sem edital."},
-{"tag":"DICA","tom":"good","titulo":"Terça de questões","detalhe":"Resolva 20 questões de Matemática Financeira e revise os erros."}]}
+{"data":"18/11","titulo":"Giro dos Concursos","itens":[
+{"tag":"ENCERRA EM 5 DIAS","tom":"warn","titulo":"Banestes e TRF-3: 23/11","detalhe":"Banestes (FCC, 936 vagas) e TRF-3 (Vunesp) fecham as inscrições em 23/11."},
+{"tag":"EM ACOMPANHAMENTO","tom":"info","titulo":"BACEN, BB e Caixa","detalhe":"BACEN: edital até 30/12, banca a definir. BB e Caixa seguem sem edital."},
+{"tag":"DICA","tom":"good","titulo":"Quarta de revisão","detalhe":"Refaça as questões que errou esta semana em Português e Matemática Financeira."}]}
