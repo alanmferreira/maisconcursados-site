@@ -1,24 +1,30 @@
 {
- "data": "22/11",
+ "data": "23/11",
  "titulo": "Giro dos Concursos",
  "itens": [
   {
-   "tag": "ENCERRA AMANHÃ",
+   "tag": "ENCERRA HOJE",
    "tom": "warn",
-   "titulo": "Banestes e TRF-3: 23/11",
-   "detalhe": "Banestes (FCC) e TRF-3 (Vunesp) fecham em 23/11, às 23h59."
+   "titulo": "Banestes e TRF-3: hoje",
+   "detalhe": "Inscrições até 23h59 de 23/11. Banestes (FCC) e TRF-3 (Vunesp)."
   },
   {
-   "tag": "NOVO",
+   "tag": "ENCERRA EM 2 DIAS",
+   "tom": "warn",
+   "titulo": "IBGE Censo Agro: 25/11",
+   "detalhe": "Inscrições para recenseador (Cesgranrio) até 25/11."
+  },
+  {
+   "tag": "EM ACOMPANHAMENTO",
    "tom": "info",
    "titulo": "BACEN: banca é a FGV",
-   "detalhe": "Divulgada em 18/11. Edital até 30/12, 170 vagas."
+   "detalhe": "Contrato ainda não assinado. Edital até 30/12, 170 vagas."
   },
   {
    "tag": "DICA",
    "tom": "good",
-   "titulo": "Domingo de revisão",
-   "detalhe": "Refaça as questões erradas da semana antes de começar a nova."
+   "titulo": "Segunda de foco",
+   "detalhe": "Comece a semana com 30 questões de Português e revise os erros."
   }
  ]
 }
