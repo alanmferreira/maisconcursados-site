@@ -1,30 +1,30 @@
 {
- "data": "23/11",
+ "data": "24/11",
  "titulo": "Giro dos Concursos",
  "itens": [
   {
-   "tag": "ENCERRA HOJE",
+   "tag": "ATENÇÃO",
    "tom": "warn",
-   "titulo": "Banestes e TRF-3: hoje",
-   "detalhe": "Inscrições até 23h59 de 23/11. Banestes (FCC) e TRF-3 (Vunesp)."
+   "titulo": "IBGE Censo Agro: amanhã",
+   "detalhe": "Inscrições para recenseador (Cesgranrio) até 25/11, 23h59."
   },
   {
-   "tag": "ENCERRA EM 2 DIAS",
-   "tom": "warn",
-   "titulo": "IBGE Censo Agro: 25/11",
-   "detalhe": "Inscrições para recenseador (Cesgranrio) até 25/11."
-  },
-  {
-   "tag": "EM ACOMPANHAMENTO",
+   "tag": "NOVO",
    "tom": "info",
-   "titulo": "BACEN: banca é a FGV",
-   "detalhe": "Contrato ainda não assinado. Edital até 30/12, 170 vagas."
+   "titulo": "BACEN: contrato com a FGV",
+   "detalhe": "Contrato da banca publicado no PNCP. Edital até 30/12, 170 vagas."
+  },
+  {
+   "tag": "ENCERRADO",
+   "tom": "info",
+   "titulo": "Banestes e TRF-3 fecharam",
+   "detalhe": "Inscrições terminaram ontem (23/11). Foco agora na prova."
   },
   {
    "tag": "DICA",
    "tom": "good",
-   "titulo": "Segunda de foco",
-   "detalhe": "Comece a semana com 30 questões de Português e revise os erros."
+   "titulo": "Terça de revisão",
+   "detalhe": "Refaça 20 questões que errou e anote o motivo de cada erro."
   }
  ]
 }

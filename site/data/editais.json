@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-23",
+ "atualizadoEm": "2026-11-24",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -185,13 +185,13 @@
    "org": "TRF da 3ª Região (SP e MS)",
    "cargo": "Técnico e Analista Judiciário (Oficial de Justiça e áreas de TI e apoio)",
    "area": "tribunais",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "Vunesp",
    "vagas": 11,
    "vagasTexto": "11 imediatas + cadastro de reserva",
    "salario": "Técnico R$ 9.776,73 · Analista R$ 16.040,87 · Oficial de Justiça R$ 20.013,11",
    "inscricoesAte": "2026-11-23",
-   "obs": "Edital 01/2026, publicado em 26/10/2026. Inscrições de 04/11 (10h) a 23/11/2026 (23h59) no site da Vunesp. Isenção solicitada em 04 e 05/11. Taxa R$ 100 (Técnico) e R$ 160 (Analista). Provas objetiva e discursiva em 31/01/2027.",
+   "obs": "Edital 01/2026, publicado em 26/10/2026. Inscrições de 04/11 (10h) a 23/11/2026 (23h59) no site da Vunesp. Isenção solicitada em 04 e 05/11. Taxa R$ 100 (Técnico) e R$ 160 (Analista). Provas objetiva e discursiva em 31/01/2027. Inscrições encerradas em 23/11/2026 (23h59).",
    "validado": true,
    "fontes": [
     {
@@ -207,7 +207,7 @@
      "url": "https://folha.qconcursos.com/n/concurso-trf3-edital-2026"
     }
    ],
-   "conferidoEm": "2026-11-22"
+   "conferidoEm": "2026-11-24"
   },
   {
    "id": "bacen",
@@ -215,13 +215,13 @@
    "cargo": "Auditor, Técnico e Procurador",
    "area": "bancario",
    "status": "previsto",
-   "banca": "FGV (divulgada pelo Banco Central em 18/11/2026, segundo a imprensa; contrato ainda a ser assinado)",
+   "banca": "FGV (contrato com o Banco Central publicado no PNCP, segundo a imprensa, em 19/11/2026)",
    "vagas": 170,
    "vagasTexto": "170 (100 Auditor, 50 Técnico, 20 Procurador)",
    "salario": "Estimado: Auditor R$ 18.033,52 · Técnico R$ 8.300 · Procurador R$ 27.264,30",
    "inscricoesAte": "",
    "previsao": "Autorizado em 03/07/2026. Edital previsto até 30/12/2026.",
-   "obs": "Sem edital ainda. Em 18/11/2026 o BC divulgou a FGV como banca, segundo a imprensa; falta a assinatura do contrato. A FGV cuida de Auditor (100) e Técnico (50); as 20 vagas de Procurador são ofertadas junto com carreiras jurídicas da AGU. Um FAQ do Banco Central (10/11/2026), relatado pela imprensa, indica edital até 30/12/2026, antes do limite legal de 03/01/2027. Prova só ocorre 2 meses ou mais após o edital. O Senado aprovou em 29/10 a MP 1.375/2026, que exige nível superior para Técnico; a matéria aguarda sanção. Os salários são estimativas da imprensa. ",
+   "obs": "Sem edital ainda. Em 18/11/2026 o BC divulgou a FGV como banca; o contrato com a FGV foi assinado e publicado no PNCP em 19/11, segundo a imprensa (JC Concursos e Ceisc); o edital pode sair a qualquer momento. A FGV cuida de Auditor (100) e Técnico (50); as 20 vagas de Procurador são ofertadas junto com carreiras jurídicas da AGU. Um FAQ do Banco Central (10/11/2026), relatado pela imprensa, indica edital até 30/12/2026, antes do limite legal de 03/01/2027. Prova só ocorre 2 meses ou mais após o edital. O Senado aprovou em 29/10 a MP 1.375/2026, que exige nível superior para Técnico; a matéria aguarda sanção. Os salários são estimativas da imprensa. ",
    "destaque": true,
    "validado": true,
    "fontes": [
@@ -240,9 +240,13 @@
     {
      "nome": "Acheconcursos (MP 1.375, Técnico nível superior)",
      "url": "https://www.acheconcursos.com.br/noticias/senado-muda-requisito-para-tecnico-do-banco-central-e-novo-concurso-tera-mudanca-94330"
+    },
+    {
+     "nome": "Ceisc (contrato BC-FGV, 19/11)",
+     "url": "https://ceisc.com.br/blog/post/banco-central-do-brasil-assina-contrato-com-a-fgv-e-novo-edital-e-iminente"
     }
    ],
-   "conferidoEm": "2026-11-22"
+   "conferidoEm": "2026-11-24"
   },
   {
    "id": "receita-federal",
@@ -400,13 +404,13 @@
    "org": "Banestes (ES)",
    "cargo": "Técnico Bancário, Técnico em Segurança do Trabalho e Assistente Securitário",
    "area": "bancario",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "FCC",
    "vagas": 936,
    "vagasTexto": "936 em cadastro de reserva (866 Técnico Bancário, 20 Técnico em Segurança do Trabalho, 50 Assistente Securitário)",
    "salario": "R$ 4.444,43 a R$ 5.618,71 (com gratificação de 25%), fora benefícios",
    "inscricoesAte": "2026-11-23",
-   "obs": "Editais 01/2026 (Banestes) e 02/2026 (Banestes Seguros). Inscrições prorrogadas (Retificação nº 03/2026): de 19/10 (10h) até 23/11/2026 (23h59) no site da FCC; boleto pode ser gerado até as 22h de 24/11. Taxa R$ 67. A retificação incluiu reserva de 10% das vagas para candidatos hipossuficientes. Prova objetiva em 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. Nível médio completo. Confira na retificação as datas do pedido de isenção. Os portais divergem no valor do piso; confira no edital. Atenção: em 11/11/2026 o banco publicou outro par de editais (nível superior e Assistente Securitário, 645 vagas); veja a entrada banestes-superior.",
+   "obs": "Editais 01/2026 (Banestes) e 02/2026 (Banestes Seguros). Inscrições prorrogadas (Retificação nº 03/2026): de 19/10 (10h) até 23/11/2026 (23h59) no site da FCC; boleto pode ser gerado até as 22h de 24/11. Taxa R$ 67. A retificação incluiu reserva de 10% das vagas para candidatos hipossuficientes. Prova objetiva em 24/01/2027, pela manhã, em Vitória, Cachoeiro de Itapemirim e São Mateus. Nível médio completo. Confira na retificação as datas do pedido de isenção. Os portais divergem no valor do piso; confira no edital. Atenção: em 11/11/2026 o banco publicou outro par de editais (nível superior e Assistente Securitário, 645 vagas); veja a entrada banestes-superior. Inscrições encerradas em 23/11/2026 (23h59).",
    "destaque": true,
    "validado": true,
    "fontes": [
@@ -427,7 +431,7 @@
      "url": "https://www.concursosfcc.com.br"
     }
    ],
-   "conferidoEm": "2026-11-22"
+   "conferidoEm": "2026-11-24"
   },
   {
    "id": "banestes-superior",
