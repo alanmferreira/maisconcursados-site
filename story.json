@@ -1,30 +1,10 @@
 {
- "data": "24/11",
+ "data": "25/11",
  "titulo": "Giro dos Concursos",
  "itens": [
-  {
-   "tag": "ATENÇÃO",
-   "tom": "warn",
-   "titulo": "IBGE Censo Agro: amanhã",
-   "detalhe": "Inscrições para recenseador (Cesgranrio) até 25/11, 23h59."
-  },
-  {
-   "tag": "NOVO",
-   "tom": "info",
-   "titulo": "BACEN: contrato com a FGV",
-   "detalhe": "Contrato da banca publicado no PNCP. Edital até 30/12, 170 vagas."
-  },
-  {
-   "tag": "ENCERRADO",
-   "tom": "info",
-   "titulo": "Banestes e TRF-3 fecharam",
-   "detalhe": "Inscrições terminaram ontem (23/11). Foco agora na prova."
-  },
-  {
-   "tag": "DICA",
-   "tom": "good",
-   "titulo": "Terça de revisão",
-   "detalhe": "Refaça 20 questões que errou e anote o motivo de cada erro."
-  }
+  {"tag": "ENCERRA HOJE", "tom": "warn", "titulo": "IBGE Censo Agro", "detalhe": "Recenseador (Cesgranrio): inscrições até hoje, 25/11, 23h59."},
+  {"tag": "EM ACOMPANHAMENTO", "tom": "info", "titulo": "BACEN: edital até 30/12", "detalhe": "Banca FGV definida. 170 vagas. Edital ainda não saiu."},
+  {"tag": "ATENÇÃO", "tom": "warn", "titulo": "Banestes: até 11/12", "detalhe": "Nível superior e Assistente Securitário (FCC). Prova em 21/02/2027."},
+  {"tag": "DICA", "tom": "good", "titulo": "Quarta de simulado", "detalhe": "Faça 30 questões cronometradas e revise cada erro depois."}
  ]
 }
