@@ -1,10 +1,10 @@
 {
- "data": "25/11",
+ "data": "26/11",
  "titulo": "Giro dos Concursos",
  "itens": [
-  {"tag": "ENCERRA HOJE", "tom": "warn", "titulo": "IBGE Censo Agro", "detalhe": "Recenseador (Cesgranrio): inscrições até hoje, 25/11, 23h59."},
-  {"tag": "EM ACOMPANHAMENTO", "tom": "info", "titulo": "BACEN: edital até 30/12", "detalhe": "Banca FGV definida. 170 vagas. Edital ainda não saiu."},
+  {"tag": "EM ACOMPANHAMENTO", "tom": "info", "titulo": "BACEN: edital até 30/12", "detalhe": "FGV é a banca. 170 vagas. Edital ainda não saiu."},
   {"tag": "ATENÇÃO", "tom": "warn", "titulo": "Banestes: até 11/12", "detalhe": "Nível superior e Assistente Securitário (FCC). Prova em 21/02/2027."},
-  {"tag": "DICA", "tom": "good", "titulo": "Quarta de simulado", "detalhe": "Faça 30 questões cronometradas e revise cada erro depois."}
+  {"tag": "NOVO", "tom": "info", "titulo": "DPE-AM abre dia 30/11", "detalhe": "Inscrições de 30/11 a 04/01/2027. Isenção até 04/12."},
+  {"tag": "DICA", "tom": "good", "titulo": "Quinta de revisão", "detalhe": "Refaça as questões que errou na semana e anote o porquê."}
  ]
 }

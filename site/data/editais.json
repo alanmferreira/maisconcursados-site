@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-25",
+ "atualizadoEm": "2026-11-26",
  "aviso": "Conferido em 13/10/2026 no texto dos editais e em pelo menos duas fontes independentes. Os sites das bancas bloquearam a leitura automática, por isso confirme sempre no edital oficial antes de se inscrever.",
  "editais": [
   {
@@ -246,7 +246,7 @@
      "url": "https://ceisc.com.br/blog/post/banco-central-do-brasil-assina-contrato-com-a-fgv-e-novo-edital-e-iminente"
     }
    ],
-   "conferidoEm": "2026-11-24"
+   "conferidoEm": "2026-11-26"
   },
   {
    "id": "receita-federal",
@@ -688,13 +688,13 @@
    "org": "IBGE (Censo Agropecuário)",
    "cargo": "Recenseador (processo seletivo temporário)",
    "area": "outros",
-   "status": "aberto",
+   "status": "encerrado",
    "banca": "Cesgranrio",
    "vagas": 27279,
    "vagasTexto": "27.279 temporárias",
    "salario": "Parcela fixa R$ 1.741 + variável por produtividade (confira no edital)",
    "inscricoesAte": "2026-11-25",
-   "obs": "Edital nº 03/2026 publicado em 05/11/2026. Inscrições de 06/11 (10h) a 25/11/2026 (23h59), só pelo site da Cesgranrio. Taxa R$ 70. Confira escolaridade e remuneração no edital completo, pois os portais divergem.",
+   "obs": "Edital nº 03/2026 publicado em 05/11/2026. Inscrições de 06/11 (10h) a 25/11/2026 (23h59), só pelo site da Cesgranrio. Taxa R$ 70. Confira escolaridade e remuneração no edital completo, pois os portais divergem. Inscrições encerradas em 25/11/2026 (23h59); sem prorrogação localizada.",
    "validado": true,
    "fontes": [
     {
@@ -710,7 +710,7 @@
      "url": "https://blog.grancursosonline.com.br/concurso-ibge-temporarios-recenseador-edital-publicado-2026/"
     }
    ],
-   "conferidoEm": "2026-11-09"
+   "conferidoEm": "2026-11-26"
   },
   {
    "id": "pc-ac",
