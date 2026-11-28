@@ -1,10 +1,10 @@
 {
- "data": "27/11",
+ "data": "28/11",
  "titulo": "Giro dos Concursos",
  "itens": [
   {"tag": "EM ACOMPANHAMENTO", "tom": "info", "titulo": "BACEN: edital até 30/12", "detalhe": "FGV é a banca. 170 vagas. Edital ainda não saiu."},
-  {"tag": "ATENÇÃO", "tom": "warn", "titulo": "Banestes: até 11/12", "detalhe": "Nível superior e Assistente Securitário (FCC). Prova em 21/02/2027."},
   {"tag": "ABRE SEGUNDA", "tom": "info", "titulo": "DPE-AM abre dia 30/11", "detalhe": "Inscrições de 30/11 a 04/01/2027. Isenção até 04/12."},
-  {"tag": "DICA", "tom": "good", "titulo": "Sexta de simulado", "detalhe": "Faça um simulado cronometrado e revise cada erro."}
+  {"tag": "ATENÇÃO", "tom": "warn", "titulo": "Banestes: até 11/12", "detalhe": "Nível superior e Assistente Securitário (FCC). Só pelo site da FCC."},
+  {"tag": "DICA", "tom": "good", "titulo": "Sábado de revisão", "detalhe": "Revise seus erros da semana e refaça 20 questões."}
  ]
 }
